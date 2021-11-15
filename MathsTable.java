@@ -21,7 +21,7 @@ public class MathsTable {
 		float i,j;
 		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Enter a Numbers");
+		System.out.println("Enter a Number of your choice");
 		i=sc.nextFloat();
 		for(j=1; j<=10; j++)
 		{
